@@ -1,1 +1,1 @@
-this is an example text
+In Lagrangian mechanics of (point material) particles, the general coordinates $q_i$
