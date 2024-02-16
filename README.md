@@ -1,2 +1,2 @@
-# Lagrangian Field Theory
-Some topics in classical fields
+# Physics Misc
+Some topics in physics, mostly classical field theory, are covered here.
